@@ -20,7 +20,7 @@ As I move forward in my Computer Science journey, I’m excited about continuing
 
 * Oct 05, 2024: I had the opportunity to attend the [NASA Internacionational Space AppsChallenge](https://www.spaceappschallenge.org) hosted by Iberoamerican University.Developing a solution for the problrmatic galactic games.
 
->> ![ ](/files/leeds24.jpg)
+>> ![ ](/files/hack1.JPG)
 
 --- 
 
