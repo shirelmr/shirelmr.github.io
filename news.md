@@ -1,5 +1,5 @@
 ## Update and news 📰
-###  [Home](/index) • [Publications](/publications) • [Research](/research) • News • [CV](/brief_cv) • [Coffee](/coffee) • [Contact](/contact)
+###  [Home](/index) • [Projects](/publications) • News • [CV](/brief_cv) • [Beyond Tech](/research) • [Contact](/contact)
 
 ---
 
@@ -182,25 +182,16 @@
 
 ---
 
-### 2019
+### 2020
 
-
-
-* Nov 28, 2019: I have **successfully passed** my **thesis defense** to obtain my **Master's degree** in Biomedical Sciences and Technologies at [INAOE](https://www.inaoep.mx) 🇲🇽. Thank you all very much!
-
->> ![ ](/files/inaoe2019_thesisdefense.jpeg)                                          
->> From left to right: Dr. Hayde Peregrina-Barreto (INAOE), Francisco Lopez-Tiro (me), Dr. José de Jesús Rangel-Magdaleno (INAOE)
-
-* Sept 9, 2019: Our **conference paper** [*"Visualization of in-vitro Blood Vessels in Contrast Images Based on Discrete Wavelet Transform Decomposition"*](https://ieeexplore.ieee.org/document/8827144) is now **available** in [IEEEXplore](https://ieeexplore.ieee.org/document/8827144)!
-
-* May 22, 2019: I **presented** in **poster** format the work [*"Visualization of in-vitro Blood Vessels in Contrast Images Based on Discrete Wavelet Transform Decomposition"*](https://ieeexplore.ieee.org/document/8827144) at the 2019 International Instrumentation and Measurement Technology Conference (IEEE I2MTC 2019) in Auckland , New Zealand! 🇳🇿
-
-* May 20-23, 2019: We attended IEEE I2MTC 2019 in Auckland , New Zealand! 🇳🇿
+* Nov 08, 2020: I participated in an internal 'Balloon Popping Robots' tournament, where I designed and programmed a robot using LEGO Mindstorms EV3 and block-based programming.
 
 >> ![ ](/files/i2mtc2019_team.jpeg)                                          
 >> From left to right: Carlos Morales-Perez (INAOE), Eduardo Morales-Vargas (INAOE), Max Cortner (I&M Society President), Ingrid Valencia-Hernandez (INAOE), and Francisco Lopez-Tiro (me)
 
-* Jan 12, 2019: Our **conference paper** [*"Visualization of in-vitro Blood Vessels in Contrast Images Based on Discrete Wavelet Transform Decomposition"*](https://ieeexplore.ieee.org/document/8827144) has been **accepted** at 2019 International Instrumentation and Measurement Technology Conference (IEEE I2MTC 2019). This year celebrated in Auckland, New Zealand 🇳🇿
+* Sep 5, 2020: I **joined** [*"EARTH 4723"*](https://www.instagram.com/earth4723oficial/?hl=es-la) team
+
+* Aug 10, 2020: I began my high school studies at [*Tecmilenio Puebla*](https://www.tecmilenio.mx/es/campus/puebla)
 
 ---
 
