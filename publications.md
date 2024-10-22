@@ -1,6 +1,6 @@
 
 ## Projects 📑
-###  [Home](/index) • Projects  • [Research](/research) • [News](/news) • [CV](/brief_cv) • [Coffee](/coffee) • [Contact](/contact)
+###  [Home](/index) • Projects • [News](/news) • [CV](/brief_cv) • [Beyond Tech](/research) • [Contact](/contact)
  **Selected papers** • [Conferences](/conference)
 
 ---
