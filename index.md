@@ -1,4 +1,4 @@
-## Welcome! 🗻
+## Welcome! 💻 🎀
 
 ###  Home • [Publications](/publications) • [Research](/research) • [News](/news) • [CV](/brief_cv) • [Coffee](/coffee) • [Contact](/contact)
 ---
@@ -6,9 +6,9 @@
   
 ### About me
 
-I'm a **PhD student** at the **Department of Computer Sciences** at <a href="https://tec.mx/es" target="_blank">*Tecnológico de Monterrey</a> 🇲🇽 and <a href="https://www.univ-lorraine.fr" target="_blank">**Université de Lorraine</a> 🇫🇷
+I'm a **CS student** at <a href="https://tec.mx/es" target="_blank">*Tecnológico de Monterrey</a> 🇲🇽 
 
-Currently, I'm working in kidney stone classification in endoscopic images at the [CV-INSIDE Lab](https://www.researchgate.net/lab/CV-INSIDE-Computer-Vision-for-Image-aNalysiS-bIomeDical-Engineering-Gilberto-Ochoa-Ruiz) under the direction of [*Gilberto Ochoa-Ruiz](https://scholar.google.com/citations?user=DDtiliwAAAAJ&hl=en) and [**Christian Daul](https://scholar.google.fr/citations?user=XPH6u74AAAAJ&hl=fr)
+Currently, I'm in my 3rd semester 
 
 
 
