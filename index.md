@@ -18,6 +18,14 @@ As I move forward in my Computer Science journey, I’m excited about continuing
 
 ### Updates
 
+* Dec 10, 2024: I had an offer from Microsoft to be an intern! I accepted :)
+
+>> ![ ](/files/Intern.PNG) 
+
+* Dec 04, 2024: I interviewed with Microsoft for an [Explore intern position](https://careers.microsoft.com/v2/global/en/exploremicrosoft)
+
+>> ![ ](/files/interview.png)
+
 * Oct 05, 2024: I had the opportunity to attend the [NASA Internacionational Space AppsChallenge](https://www.spaceappschallenge.org) hosted by Iberoamerican University.Developing a solution for the problrmatic galactic games.
 
 >> ![ ](/files/terrasphere1.png)
