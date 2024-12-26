@@ -18,7 +18,7 @@ My interests in Artificial Intelligence and cybersecurity drive my curiosity to 
 
 * Oct 05, 2024: I had the opportunity to attend the [NASA Internacionational Space AppsChallenge](https://www.spaceappschallenge.org) hosted by Iberoamerican University.Developing a solution for the problrmatic galactic games.
 
->> ![ ](/files/hack1.JPG)
+>> ![ ](/files/terrasphere1.png)
 
 --- 
 
