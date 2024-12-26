@@ -1,26 +1,22 @@
 ## Visualization and localization of blood vessels in speckle images 📓
-###  [Home](/index) • [Publications](/publications) • [Research](/research) • [News](/news) • [CV](/brief_cv) • [Coffee](/coffee) • [Contact](/contact)
-Projects • **Blood vessels** • [Kidney stones](/kidneystones) • [Mammography](/mammography) • [Colony growth](/colonygrowth)
+###  [Home](/index) • [Publications](/research) • [News](/news) • [CV](/brief_cv) • [Beyond Tech](/coffee) • [Contact](/contact)
+Projects • **2024** • [2023](/kidneystones) • [2022](/mammography) • [2021](/colonygrowth)
 
 ---
 
-### Statement 
+### March 
 
-I thank [Dr. José de Jesús Rangel-Magdaleno](https://scholar.google.es/citations?user=aBNkfEsAAAAJ&hl=es), [Dr. Hayde Peregrina-Barreto](https://scholar.google.es/citations?user=Wh2blp0AAAAJ&hl=es), and [Dr. Julio Cesar Ramirez-San-Juan](https://scholar.google.es/citations?user=xN03bqgAAAAJ&hl=es) for integrating me into the **speckle team**. Also, as soon as I have authorization and the work is published, I will report the **codes** of the methods used.
-
-I am currently working on **denoising** with wavelets, improve quality image, segmenting with traditional and **clustering** methods such as knn. 
-
-![Visualization and localization of blood vessels in speckle images](/files/blood_vessels.png)
+This project, developed in Python, leverages Markov chains to simulate a probabilistic game. By applying algorithmic strategies and advanced programming techniques, it effectively models stochastic processes and predicts future states based on probability theory. This showcases the ability to analyze and forecast complex scenarios, demonstrating proficiency in working with dynamic systems and uncertainty
 
 ---
-### Research
+### April
 
 Our research helps to improve the visualization of **blood vessels** inside the **biological tissue**. To achieve this goal we carry out research in biophotonics, high noise signals, **digital image processing**, and segmentation algorithms. 
 
 In this research we address the use of the **Discrete Wavelet Transform** (DWT) as a multilevel filtering method and region segmentation techniques to **improve visualization and localization** in LSI images. 
 
 ---
-### Research
+### May
 
 At the moment, I have three conference paper and a journal paper with the **speckle team**
 
@@ -44,13 +40,16 @@ At the moment, I have three conference paper and a journal paper with the **spec
 
 ---
 
+### June
+
 Working in [Speckle Laboratory (SpeckleLab)](/specklelab)  
+
 
 ---
 
 
 
-**Other projects**: [Kidney stones](/kidneystones), [Mammography](/mammography), [Colony growth](/colonygrowth), [SpeckleLab](/specklelab)
+**Other projects**: [2023](/kidneystones), [2022](/mammography), [2021](/colonygrowth)
 
 
 --- 
