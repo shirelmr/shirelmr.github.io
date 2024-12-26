@@ -26,6 +26,10 @@ As I move forward in my Computer Science journey, I’m excited about continuing
 
 >> ![ ](/files/interview.png)
 
+* Nov 26, 2024: I developed a prototype of an IoT system for  for intelligent warehouse management.
+
+>> ![ ](/files/PAS.png)
+
 * Oct 05, 2024: I had the opportunity to attend the [NASA Internacionational Space AppsChallenge](https://www.spaceappschallenge.org) hosted by Iberoamerican University.Developing a solution for the problrmatic galactic games.
 
 >> ![ ](/files/terrasphere1.png)
