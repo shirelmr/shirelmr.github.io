@@ -6,7 +6,7 @@
   
 ### About me
 
-As a fourth-semester **Computer Science student** at <a href="https://tec.mx/es" target="_blank">*Tecnológico de Monterrey</a> 🇲🇽, I am passionate about learning and exploring how technology can create positive change. Beyond academics, I enjoy staying active through hobbies like playing pádel 🎾, basketball 🏀, and hiking 🏔️. 
+As a fourth-semester **Computer Science student** at Tecnologíco de Monterrey 🇲🇽, I am passionate about learning and exploring how technology can create positive change. Beyond academics, I enjoy staying active through hobbies like playing pádel 🎾, basketball 🏀, and hiking 🏔️. 
 
 My interests in Artificial Intelligence and cybersecurity drive my curiosity to understand their applications in solving real-world challenges. I aspire to contribute to the world by developing innovative solutions that address pressing global issues and improve people's lives. I value both teamwork and personal growth, which I strive to balance through my studies and recreational activities.
 
