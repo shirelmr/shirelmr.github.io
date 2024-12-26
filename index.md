@@ -6,13 +6,13 @@
   
 ### About me
 
-I'm a **Computer Science student** at <a href="https://tec.mx/es" target="_blank">*Tecnológico de Monterrey</a> 🇲🇽 with a passion for solving real-world problems through technology and creative thinking.
+As a fourth-semester **Computer Science student** at <a href="https://tec.mx/es" target="_blank">*Tecnológico de Monterrey</a> 🇲🇽, I am driven by a curiosity for technology and it's ability to improve lives.
 
-I’m deeply fascinated by  <a href="https://www.firstinspires.org/robotics/frc" target="_blank">robotics</a>, programming, and how these fields can transform the way we live.
+My interests in Artificial Intelligence and cibersecurity drive my curiosity to understand their applications in real-world challenges and developing innovative solutions.
 
-Outside of tech, you’ll often find me diving into hobbies like basketball 🏀, padel 🎾 or hiking in the mountains 🏔️ exploring nature.
+Beyond academics, I enjoy staying active through hobbies like playing padel 🎾, basketball 🏀 and hiking 🏔️.
 
-As I move forward in my Computer Science journey, I’m excited about continuing to innovate in areas like robotics and **software development**, exploring how emerging technologies can shape the future.
+As I move forward in my Computer Science journey, I’m excited about continuing to innovate in areas in **software development**, exploring how emerging technologies can shape the future.
 
 --- 
 
@@ -20,7 +20,7 @@ As I move forward in my Computer Science journey, I’m excited about continuing
 
 * Oct 05, 2024: I had the opportunity to attend the [NASA Internacionational Space AppsChallenge](https://www.spaceappschallenge.org) hosted by Iberoamerican University.Developing a solution for the problrmatic galactic games.
 
->> ![ ](/files/terrasphere.png)
+>> ![ ](/files/terrasphere1.png)
 
 --- 
 
