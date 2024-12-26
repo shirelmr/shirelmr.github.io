@@ -1,6 +1,6 @@
 ## Welcome! 💻 🎀
 
-###  Home • [Projects](/publications) • [News](/news) • [CV](/brief_cv) • [Beyond tech](/research) • [Contact](/contact) 
+###  Home • [Projects](/research) • [News](/news) • [CV](/brief_cv) • [Beyond tech](/research) • [Contact](/contact) 
 ---
 
   
