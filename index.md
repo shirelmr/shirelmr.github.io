@@ -1,6 +1,6 @@
 ## Welcome! 💻 🎀
 
-###  Home • [Projects](/publications) • [News](/news) • [CV](/brief_cv) • [Beyond tech](/research) • [Contact](/contact) 
+###  Home • [Projects](/projects) • [News](/news) • [CV](/brief_cv) • [Beyond tech](/research) • [Contact](/contact) 
 ---
 
   
@@ -18,7 +18,7 @@ As I move forward in my Computer Science journey, I’m excited about continuing
 
 ### Updates
 
-* Dec 10, 2024: I had an offer from Microsoft to be an intern! I accepted :)
+* Dec 10, 2024: I had an offer from Microsoft to be an intern! **I accepted :)**
 
 >> ![ ](/files/Intern.PNG) 
 
