@@ -1,4 +1,4 @@
-## Visualization and localization of blood vessels in speckle images 📓
+## 2024 project's 📓
 ###  [Home](/index) • [Publications](/research) • [News](/news) • [CV](/brief_cv) • [Beyond Tech](/coffee) • [Contact](/contact)
 Projects • **2024** • [2023](/kidneystones) • [2022](/mammography) • [2021](/colonygrowth)
 
@@ -11,9 +11,7 @@ This project, developed in Python, leverages Markov chains to simulate a probabi
 ---
 ### April
 
-Our research helps to improve the visualization of **blood vessels** inside the **biological tissue**. To achieve this goal we carry out research in biophotonics, high noise signals, **digital image processing**, and segmentation algorithms. 
-
-In this research we address the use of the **Discrete Wavelet Transform** (DWT) as a multilevel filtering method and region segmentation techniques to **improve visualization and localization** in LSI images. 
+This project, implemented in R, integrates computational biology and mathematical principles to analyze RNA sequences. It focuses on constructing phylogenetic trees to uncover evolutionary relationships and identifying similarities between viruses. By grounding its methodology in scientific rigor, the project provides insights into viral behavior and their genetic connections, highlighting expertise in bioinformatics and evolutionary biology.
 
 ---
 ### May
