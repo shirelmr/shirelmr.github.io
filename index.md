@@ -31,6 +31,8 @@ You can check out the repository where these tools were implemented:
 Microsoft, Developer Division, CoreAI - Azure SDK Team <br>
 Built and integrated automation tools for the Model Context Protocol (MCP) server to streamline the Azure SDK release process across 34 repositories.
 
+> ![ ](/files/msftcloud.JPG)
+
 🚀 **FIRST Robotics Competition Participant (2020–2023)**<br>
 Served as team captain for two seasons and driver for three, leading the mechanics team to build the robot within a tight 10-week deadline. Managed sponsorship efforts by securing partnerships to successfully fund competition registration.
 
