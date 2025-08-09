@@ -6,13 +6,9 @@
   
 ### About me
 
-As a fourth-semester **Computer Science student** at <a href="https://tec.mx/es" target="_blank">*Tecnológico de Monterrey</a> 🇲🇽, I am driven by a curiosity for technology and it's ability to improve lives.
+I'm a fifth-semester **Computer Science student** at <a href="https://tec.mx/es" target="_blank">Tecnológico de Monterrey</a> 🇲🇽, passionate about creating solutions that improve lives. I thrive on projects that challenge me technically and make a real-world impact
 
-My interests in Artificial Intelligence and cibersecurity drive my curiosity to understand their applications in real-world challenges and developing innovative solutions.
-
-Beyond academics, I enjoy staying active through hobbies like playing padel 🎾, basketball 🏀 and hiking 🏔️.
-
-As I move forward in my Computer Science journey, I’m excited about continuing to innovate in areas in **software development**, exploring how emerging technologies can shape the future.
+What drives me most is building things that actually matter.
 
 --- 
 
