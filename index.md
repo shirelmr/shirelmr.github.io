@@ -1,9 +1,8 @@
 ## Welcome! 💻 🎀
 
-###  Home • [Projects](/projects) • [News](/news) • [CV](/brief_cv) • [Beyond tech](/research) • [Contact](/contact) 
+###  Home • [Projects](/projects) • [New](/news) • [CV](/brief_cv) • [Beyond tech](/research) • [Contact](/contact) 
 ---
 
-  
 ### About me
 
 I'm a fifth-semester **Computer Science student** at <a href="https://tec.mx/es" target="_blank">Tecnológico de Monterrey</a> 🇲🇽, passionate about creating solutions that improve lives. 
@@ -12,23 +11,40 @@ I thrive on projects that challenge me technically and make a real-world impact
 
 --- 
 
-### Updates
+### Highlights
 
-* Dec 10, 2024: I had an offer from Microsoft to be an intern! **I accepted :)**
+💼 Explore Intern (Summer 2025)
+Microsoft, Developer Division, CoreAI - Azure Software Development Kit Team
+Built and integrated automation tools for the Model Context Protocol (MCP) server to streamline the Azure SDK release process across 34 repositories.
 
->> ![ ](/files/Intern.PNG) 
+🚀 FIRST Robotics Competition Participant (2020–2023)
+Served as team captain for two seasons and driver for three, leading the mechanics team to build the robot within a tight 10-week deadline. Managed sponsorship efforts by securing partnerships to successfully fund competition registration.
 
-* Dec 04, 2024: I interviewed with Microsoft for an [Explore intern position](https://careers.microsoft.com/v2/global/en/exploremicrosoft)
+🏆 2nd Place — National Robotics Competition (2021)
+Designed and built a balloon-popping robot controlled via Bluetooth using an app made with App Inventor and Arduino.
 
->> ![ ](/files/interview.png)
+### Featured Projects Preview
 
-* Nov 26, 2024: I developed a prototype of an IoT system for  for intelligent warehouse management.
+--- 
 
->> ![ ](/files/PAS.png)
+### 📜 Certifications
 
-* Oct 05, 2024: I had the opportunity to attend the [NASA Internacionational Space AppsChallenge](https://www.spaceappschallenge.org) hosted by Iberoamerican University.Developing a solution for the problrmatic galactic games.
+🎓 Introduction to Cybersecurity — Cisco
 
->> ![ ](/files/terrasphere1.png)
+🌐 Get Connected — [indicar institución o plataforma si quieres]
+
+🐍 Python for Engineers — [indicar institución o plataforma si quieres]
+
+
+--- 
+
+### Contact
+
+Let’s connect! Feel free to reach out.
+
+<a href= "shirelmr12@gmail.com" target="_blank">✉️ Email</a>
+<a href= "www.linkedin.com/in/shirelmr" target="_blank">🔗 LinkedIn</a>
+<a href= "https://github.com/shirelmr" target="_blank">💻 GitHub</a>
 
 --- 
 
