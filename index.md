@@ -13,25 +13,25 @@ I thrive on projects that challenge me technically and make a real-world impact
 
 ### Highlights
 
-💼 Explore Intern (Summer 2025)<br>
+💼 **Explore Intern Product Management and Software Engineering (Summer 2025)**<br>
 Microsoft, Developer Division, CoreAI - Azure SDK Team <br>
 Built and integrated automation tools for the Model Context Protocol (MCP) server to streamline the Azure SDK release process across 34 repositories.
 
-🚀 FIRST Robotics Competition Participant (2020–2023)<br>
+🚀 **FIRST Robotics Competition Participant (2020–2023)**<br>
 Served as team captain for two seasons and driver for three, leading the mechanics team to build the robot within a tight 10-week deadline. Managed sponsorship efforts by securing partnerships to successfully fund competition registration.
 
->> ![ ](/files/first.JPG)
+> ![ ](/files/first.JPG)
 
-🏆 2nd Place — National Robotics Competition (2021)<br>
+🏆 **2nd Place — National Robotics Competition (2021)**<br>
 Designed and built a balloon-popping robot controlled via Bluetooth using an app made with App Inventor and Arduino.
 
-
+> ![ ](/files/poopingrobot.png)
 
 --- 
 
 ### Featured Work
 
-Open Source Contributions for Microsoft
+**Open Source Contributions for Microsoft**
 
 During my internship, I developed and integrated automation tools within the Model Context Protocol (MCP) server to support the Azure SDK release process. These tools are utilized across 34+ Azure SDK repositories.
 
