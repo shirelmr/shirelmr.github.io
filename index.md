@@ -11,6 +11,20 @@ I thrive on projects that challenge me technically and make a real-world impact
 
 --- 
 
+### Featured Work
+
+**Open Source Contributions for Microsoft**
+
+During my internship, I developed and integrated automation tools within the Model Context Protocol (MCP) server to support the Azure SDK release process. These tools are utilized across 34+ Azure SDK repositories.
+
+By building these shared tools, I helped reduce manual work and improve efficiency and reliability throughout the entire Azure SDK ecosystem.
+
+You can check out the repository where these tools were implemented:
+
+<a href= "https://github.com/Azure/azure-sdk-tools" target="_blank">🔗 azure-sdk-tools repo</a>
+
+--- 
+
 ### Highlights
 
 💼 **Explore Intern Product Management and Software Engineering (Summer 2025)**<br>
@@ -26,20 +40,6 @@ Served as team captain for two seasons and driver for three, leading the mechani
 Designed and built a balloon-popping robot controlled via Bluetooth using an app made with App Inventor and Arduino.
 
 > ![ ](/files/poopingrobot.png)
-
---- 
-
-### Featured Work
-
-**Open Source Contributions for Microsoft**
-
-During my internship, I developed and integrated automation tools within the Model Context Protocol (MCP) server to support the Azure SDK release process. These tools are utilized across 34+ Azure SDK repositories.
-
-By building these shared tools, I helped reduce manual work and improve efficiency and reliability throughout the entire Azure SDK ecosystem.
-
-You can check out the repository where these tools were implemented:
-
-<a href= "https://github.com/Azure/azure-sdk-tools" target="_blank">🔗 azure-sdk-tools repo</a>
 
 --- 
 
