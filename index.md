@@ -14,18 +14,22 @@ I thrive on projects that challenge me technically and make a real-world impact
 ### Highlights
 
 💼 Explore Intern (Summer 2025)<br>
-Microsoft, Developer Division, CoreAI - Azure Software Development Kit Team <br>
+Microsoft, Developer Division, CoreAI - Azure SDK Team <br>
 Built and integrated automation tools for the Model Context Protocol (MCP) server to streamline the Azure SDK release process across 34 repositories.
 
 🚀 FIRST Robotics Competition Participant (2020–2023)<br>
 Served as team captain for two seasons and driver for three, leading the mechanics team to build the robot within a tight 10-week deadline. Managed sponsorship efforts by securing partnerships to successfully fund competition registration.
 
+>> ![ ](/files/first.JPG)
+
 🏆 2nd Place — National Robotics Competition (2021)<br>
 Designed and built a balloon-popping robot controlled via Bluetooth using an app made with App Inventor and Arduino.
 
+
+
 --- 
 
-### Featured Works
+### Featured Work
 
 Open Source Contributions for Microsoft
 
@@ -33,7 +37,7 @@ During my internship, I developed and integrated automation tools within the Mod
 
 By building these shared tools, I helped reduce manual work and improve efficiency and reliability throughout the entire Azure SDK ecosystem.
 
-You can check out the repositorie where these tools were implemented:
+You can check out the repository where these tools were implemented:
 
 <a href= "https://github.com/Azure/azure-sdk-tools" target="_blank">🔗 azure-sdk-tools repo</a>
 
@@ -58,6 +62,7 @@ Let’s connect! Feel free to reach out.
 shirelmr@gmail.com
 
 <a href= "https://www.linkedin.com/in/shirelmr/" target="_blank">🔗 LinkedIn</a>
+
 <a href= "https://github.com/shirelmr" target="_blank">💻 GitHub</a>
 
 --- 
