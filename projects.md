@@ -1,5 +1,5 @@
 ## Projects 📓
-###  [Home](/index) • Projects • [News](/news) • [CV](/brief_cv) • [Beyond Tech](/coffee) • [Contact](/contact)
+###  [Home](/index) • Projects • [Beyond tech](/beyondtech) • [Contact](/contact) 
 
 --- 
 
