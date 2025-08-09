@@ -1,14 +1,14 @@
 ## Welcome! 💻 🎀
 
-###  Home • [Projects](/research) • [News](/news) • [CV](/brief_cv) • [Beyond tech](/research) • [Contact](/contact) 
+###  Home • [Projects](/projects) • [News](/news) • [CV](/brief_cv) • [Beyond tech](/research) • [Contact](/contact) 
 ---
 
   
 ### About me
 
-I'm a fifth-semester **Computer Science student** at <a href="https://tec.mx/es" target="_blank">Tecnológico de Monterrey</a> 🇲🇽, passionate about creating solutions that improve lives. I thrive on projects that challenge me technically and make a real-world impact
+I'm a fifth-semester **Computer Science student** at <a href="https://tec.mx/es" target="_blank">Tecnológico de Monterrey</a> 🇲🇽, passionate about creating solutions that improve lives. 
 
-What drives me most is building things that actually matter.
+I thrive on projects that challenge me technically and make a real-world impact
 
 --- 
 
